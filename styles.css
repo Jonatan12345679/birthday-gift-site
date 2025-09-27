@@ -14,9 +14,8 @@ p {
 }
 
 #bff-img {
-  width: 150px;
-
-  border-radius: 50%;
+  width: 100px;
+  border-radius: 40%;
   border: 6px solid #efb0c9;
   margin-bottom: 10px;
 }
@@ -76,11 +75,11 @@ p {
 }
 
 #gift-img-genius:hover {
-  background-image: url("images/genius.gif");
+  background-image: url("images/beautiful.gif");
 }
 
 #gift-img-badass:hover {
-  background-image: url("images/badass.gif");
+  background-image: url("images/karina.gif");
 }
 
 #gift-img-cheers:hover {
